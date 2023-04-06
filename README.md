@@ -11,7 +11,7 @@ This project contains a list of some useful .exe files that can be helpful in va
 
 ## Executables
 
-- `cengine.exe`: A tool for converting .py files to .exe with less size.
+- `cengine.exe`: A tool for converting .py files to .exe with less size. Repository: https://github.com/Da4ndo/CEngine 
 - `createproject.exe`: A command-line tool for quickly setting up new projects.
 - `install.exe`: An installation wizard for installing all imports/packages for a python file.
 - `myips.exe`: A tool for checking your local and external IP address on Windows.
