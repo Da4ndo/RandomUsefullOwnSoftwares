@@ -1,3 +1,8 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[<img src="https://img.shields.io/github/license/Da4ndo/RandomUsefullOwnSoftwares?label=License&color=blue&logo=gitbook&logoColor=808080">](https://github.com/Da4ndo/RandomUsefullOwnSoftwares/blob/master/LICENSE)
+<img src="https://img.shields.io/github/stars/Da4ndo/RandomUsefullOwnSoftwares?label=Stars&color=yellow&logo=reverbnation&logoColor=yellow">
+[<img src="https://img.shields.io/github/issues/Da4ndo/RandomUsefullOwnSoftwares?label=Issues&color=red&logo=ifixit&logoColor=red">](https://github.com/Da4ndo/RandomUsefullOwnSoftwares/issues/)
+
 # Useful Executables
 
 This project contains a list of some useful .exe files that can be helpful in various situations.
@@ -25,4 +30,4 @@ If you have suggestions for other useful .exe files that could be added to this 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).```
+This project is licensed under the [MIT License](LICENSE).
